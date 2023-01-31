@@ -1,2 +1,1 @@
-# Beginning
-Code i've written as a beginner
+My portfolio of projects!
